@@ -1,0 +1,31 @@
+{
+	"Title": [
+  "All Products List"
+],
+"TableHeader": [
+  "Id",
+  "ProductName",
+  "Quantity",
+	"Price"
+],
+"TableContent": [
+	{
+	"Id": "1",
+	"ProductName": "MotoG5",
+	"Quantity" :"2",
+	"Price" : "RS : 13000"
+	},
+		{
+	"Id": "2",
+	"ProductName": "Racold Greyser",
+	"Quantity" :"3",
+	"Price" : "RS : 5000"
+	},
+		{
+	"Id": "3",
+	"ProductName": "Dell Inspiration",
+	"Quantity" :"4",
+	"Price" : "RS : 50000"
+	}
+]
+}
